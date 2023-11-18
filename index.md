@@ -2,7 +2,7 @@
 layout: project_page
 permalink: /
 
-title: SeFi-IDE: Semantic-Fidelity Identity Embedding for Personalized Diffusion-Based Generation
+title: 'SeFi-IDE: Semantic-Fidelity Identity Embedding for Personalized Diffusion-Based Generation'
 Paper: https://Com-Vis.github.io/SeFi-IDE/
 ---
 
