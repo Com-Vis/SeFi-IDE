@@ -3,7 +3,7 @@ layout: project_page
 permalink: /
 
 title: Learning Dense Correspondence for NeRF-Based Face Reenactment
-Paper: https://demoforshow.github.io/planedict/
+Paper: https://Com-Vis.github.io/SeFi-IDE/
 ---
 
 <div class="columns is-centered has-text-centered">
