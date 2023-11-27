@@ -24,16 +24,15 @@ The advanced diffusion-based Text-to-Image (T2I) models (e.g., Stable Diffusion 
 ## <center> Single Person's Generation
 
 ### <center> Single Person's Comparisons
-![](/static/image/demo_0.gif)
-![](/static/image/demo_1.gif)
+![](/static/image/figure3.png)
 
 ### <center> More Single Person's Generation Results
----
+![](/static/image/figure4.png)
 
+---
 ## <center> Multiple Persons' Generation
 ### <center> Multiple Persons' Comparisons
-![](/static/image/demo_2.gif)
-![](/static/image/demo_3.gif)
+
 ### <center> More Multiple Persons' Gneration Results
 
 ## More Evaluation
