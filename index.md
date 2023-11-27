@@ -21,12 +21,19 @@ The advanced diffusion-based Text-to-Image (T2I) models (e.g., Stable Diffusion 
 
 ---
 
-## <center> Cross-Identity Face Reenactment
+## <center> Single Person's Generation
+
+### <center> Single Person's Comparisons
 ![](/static/image/demo_0.gif)
 ![](/static/image/demo_1.gif)
 
+### <center> More Single Person's Generation Results
 ---
 
-## <center> Multi-View Synthesis
+## <center> Multiple Persons' Generation
+### <center> Multiple Persons' Comparisons
 ![](/static/image/demo_2.gif)
 ![](/static/image/demo_3.gif)
+### <center> More Multiple Persons' Gneration Results
+
+## More Evaluation
