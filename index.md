@@ -19,8 +19,9 @@ The advanced diffusion-based Text-to-Image (T2I) models (e.g., Stable Diffusion 
 
 ## <center> Framework
 ![](/static/image/teaser.png)
+The face identity (ID) embedding of previous personalized generation methods has two problems: (1) Attention Overfit : The attention of Textural Inversion and ProSpect} towards to the V* takes over the whole image, disrupting the interaction between newly embedded concepts and other existing concepts. Consequently, their attention towards to the cup is wrong, which results in the failure of the given prompt. (2) Limited Semantic-Fidelity: Despite alleviating overfit, Celeb Basis introduces excessive face prior, limiting the semantic-fidelity of the learned ID embedding. Specifically, this means that the cup attention map continues to concentrate on the face region. We propose Face-Wise Attention Loss and Semantic-Fidelity Token Optimization to address problem (1) and (2) respectively.
 ![](/static/image/pipeline.png)
-
+The overview of our framework. We first propose a novel Face-Wise Attention Loss to alleviate the attention overfit problem and make the ID embedding focus on the face region to improve the ID accuracy and interactive generative ability. Then, we optimize the target ID embedding as five per-stage tokens with disentangled features to expend textural conditioning space with semantic-fidelity control ability.
 ---
 
 ## <center> Single Person's Generation
