@@ -18,6 +18,8 @@ The advanced diffusion-based Text-to-Image (T2I) models (e.g., Stable Diffusion 
 ---
 
 ## <center> Framework
+![](/static/image/teaser.png)
+![](/static/image/pipeline.png)
 
 ---
 
@@ -25,6 +27,7 @@ The advanced diffusion-based Text-to-Image (T2I) models (e.g., Stable Diffusion 
 
 ### <center> Single Person's Comparisons
 ![](/static/image/figure3.png)
+![](/static/image/com_single_person.png)
 
 ### <center> More Single Person's Generation Results
 ![](/static/image/figure4.png)
@@ -32,9 +35,14 @@ The advanced diffusion-based Text-to-Image (T2I) models (e.g., Stable Diffusion 
 ---
 ## <center> Multiple Persons' Generation
 ### <center> Multiple Persons' Comparisons
+![](/static/image/multi_scen.png)
+![](/static/image/action.png)
 
 ### <center> More Multiple Persons' Gneration Results
+![](/static/image/multi_person.png)
 
 ## More Evaluation
 Our method does not introduce face prior from other models, we adopt bear, cat, and dog for experiments, which show the generalization ability of our method.
+![](/static/image/more_objects.png)
+
 
