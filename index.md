@@ -36,3 +36,5 @@ The advanced diffusion-based Text-to-Image (T2I) models (e.g., Stable Diffusion 
 ### <center> More Multiple Persons' Gneration Results
 
 ## More Evaluation
+Our method does not introduce face prior from other models, we adopt bear, cat, and dog for experiments, which show the generalization ability of our method.
+
