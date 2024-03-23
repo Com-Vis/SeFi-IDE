@@ -28,24 +28,24 @@ The overview of our framework. We first propose a novel **Face-Wise Attention Lo
 
 ## <center> Single Person's Generation
 
-### <center> Single Person's Comparisons
-#### <center> Various scenes, actions, and facial attributes manipulation
+### Single Person's Comparisons
+#### Various scenes, actions, and facial attributes manipulation
 ![](/static/image/figure3.png)
 ![](/static/image/com_single_person.png)
-#### <center> Various face photo generation or ours and comparison methods
+#### Various face photo generation or ours and comparison methods
 ![](/static/image/face_generation_crop.png)
 
-### <center> More Single Person's Generation Results
+### More Single Person's Generation Results
 ![](/static/image/figure4.png)
 
 ---
 
 ## <center> Multiple Persons' Generation
-### <center> Multiple Persons' Comparisons
+### Multiple Persons' Comparisons
 ![](/static/image/scene.png)
 ![](/static/image/action.png)
 
-### <center> More Multiple Persons' Gneration Results
+### More Multiple Persons' Gneration Results
 ![](/static/image/multiperson.png)
 
 ---
