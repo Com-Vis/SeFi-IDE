@@ -51,7 +51,7 @@ The overview of our framework. We first propose a novel **Face-Wise Attention Lo
 ---
 ## More Evaluation
 ### Embedding Other Objects
-Our method does not introduce face prior from other models, we adopt bear, cat, and dog for experiments, which show the generalization ability of our method.
+Our method does not introduce face prior from other models, we adopt animals (**Bear**, **Cat**, and **Dog**) and general objects (**Car**, **Chair**, and **Plushie**) for experiments, which show the generalization ability of our method.
 ![](/static/image/more_object_crop.png)
 
 ### Using Stable Diffusion XL
