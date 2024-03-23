@@ -52,10 +52,10 @@ The overview of our framework. We first propose a novel **Face-Wise Attention Lo
 ## More Evaluation
 ### Embedding Other Objects
 Our method does not introduce face prior from other models, we adopt bear, cat, and dog for experiments, which show the generalization ability of our method.
-![](/static/image/more_objects_crop.png)
+![](/static/image/more_object_crop.png)
 
 ### Using Stable Diffusion XL
-We select SDXL model *stable-diffusion-xl-base-1.0* as the target model and the newly released methods using it for comparison
+We select SDXL model *stable-diffusion-xl-base-1.0* as the target model and the newly released methods using it for comparison.
 ![](/static/image/generalize_to_sdxl_crop.png)
 
 
