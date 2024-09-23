@@ -2,7 +2,7 @@
 layout: project_page
 permalink: /
 
-title: Beyond Inserting:Learning Subject Embedding for Semantic-Fidelity Personalized Diffusion Generation
+title: Beyond Inserting Learning Subject Embedding for Semantic-Fidelity Personalized Diffusion Generation
 Paper: https://Com-Vis.github.io/SeFi-IDE/
 ---
 
