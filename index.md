@@ -58,7 +58,7 @@ When it comes to the generation of images with controllable attributes, previous
 ![](/static/image/multiperson.png)
 
 ---
-## More Evaluation
+## <center> More Evaluation
 ### Embedding Other Objects
 #### Various subject generation or ours and comparison methods
 Our method does not introduce face prior from other models, we adopt animals (**Bear**, **Cat**, and **Dog**) and general objects (**Car**, **Chair**, and **Plushie**) for experiments, which show the generalization ability of our method.
