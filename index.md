@@ -59,6 +59,18 @@ When it comes to the generation of images with controllable attributes, previous
 
 ---
 ## <center> More Evaluation
+### Ablation
+#### Choice of $\lambda$
+With a small $\lambda$ value, the learned embedding would overfit to the target subject. Relatively, employing a larger $\lambda$ ($0.01$ or $0.05$) leads to underfitting of the optimized embedding to the target subject (lower subject similarity).
+![](/static/image/ablation_lambda.png)
+#### Attention Loss
+Compare Subject-Wise Attention Loss with existing attention regularization techniques.
+![](/static/image/attention_com1.png)
+![](/static/image/attention_com2.png)
+![](/static/image/attention_ablation.png)
+#### Number of K-V pairs
+![](/static/image/kv_num_ablation.png)
+
 ### Embedding Other Objects
 #### Various subject generation or ours and comparison methods
 Our method does not introduce face prior from other models, we adopt animals (**Bear**, **Cat**, and **Dog**) and general objects (**Car**, **Chair**, and **Plushie**) for experiments, which show the generalization ability of our method.
@@ -75,3 +87,7 @@ We select SDXL model *stable-diffusion-xl-base-1.0* as the target model and the 
 ### Combining with ControlNet
 ![](/static/image/controlnet.png)
 
+---
+## <center> Limitation
+Inherent limitations of current models persist, including semantic confusion in multiple similar concept generation and complex control (e.g., “winking” and “full of books”)
+![](/static/image/limitation.png)
