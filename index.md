@@ -72,6 +72,9 @@ Comparing Subject-Wise Attention Loss with existing attention regularization tec
 #### Number of K-V pairs
 A sensitivity analysis of the Number of K-V Feature Pairs.
 ![](/static/image/kv_num_ablation.png)
+#### Correlation of user selection with ID(P) metric
+We analyze the correlation between user selection with Prompt score and ID(P) score.
+![](/static/image/prompt_idp_score.png)
 
 ### Embedding Other Objects
 #### Various subject generation or ours and comparison methods
