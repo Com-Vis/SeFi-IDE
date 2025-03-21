@@ -87,7 +87,7 @@ Our method does not introduce face prior from other models, we adopt animals (**
 
 ### Using Stable Diffusion XL
 We select SDXL model *stable-diffusion-xl-base-1.0* as the target model and the newly released methods using it for comparison.
-![](/static/image/generalize_to_sdxl_crop.png)
+![](/static/image/generalize_to_sdxl.png)
 
 ### Combining with ControlNet
 ![](/static/image/controlnet.png)
